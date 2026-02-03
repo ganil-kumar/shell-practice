@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Hash use as a comment or informational purpose only.
+#This text not executed by bash.
+
+    echo "Hello World!" 
+    echo "Hai! This is ANIL KUMAR, 
+         I'm learning shell-scripting"
+         
