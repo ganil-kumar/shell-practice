@@ -28,7 +28,7 @@ END_COMMENT
 
 
 
-PERSON01=Akvik        #no space between value and = 
+PERSON01=Akvik       #no space between value and = 
 PERSON02=Anil_Kumar
 PERSON03=chatbot
 
@@ -37,3 +37,5 @@ echo "$PERSON02:: Hi $PERSON01, I am fine thanks for asking. How are you doing"
 echo "$PERSON01:: doing fine. What are you learning $PERSON02"
 echo "$PERSON02:: I am learning Shell. What about you?"
 echo "ah.., I'm _______________________"
+echo " "
+
