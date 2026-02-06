@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #variables are like containers that holds something
-#VAR_NAME=$(command)
+
 
 : <<'END_COMMENT'
 
