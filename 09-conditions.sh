@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER=$28
+NUMBER=$1
 
 # -eq: Equal to
 # -ne: Not equal to
