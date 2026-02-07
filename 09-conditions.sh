@@ -16,9 +16,9 @@ elif [ $NUMBER -eq 28 ]; then
 elif [ $NUMBER -ne 28 ]; then
     echo "Given number: $NUMBER is not equal to 28"
 elif [ $NUMBER -ge 28 ]; then
-    echo "Given number: $NUMBER is greater than or equal to"
-elif [ $NUMBER -le 28]; then
-    echo "Given number: $NUMBER is less than or equal to"
+    echo "Given number: $NUMBER is greater than or equal to 28"
+elif [ $NUMBER -le 28 ]; then
+    echo "Given number: $NUMBER is less than or equal to 28"
 else
     echo "Given number: $NUMBER is less than 28"
 fi
