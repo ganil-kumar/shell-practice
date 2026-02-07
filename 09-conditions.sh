@@ -1,7 +1,6 @@
 #!/bin/bash
 
 NUMBER=$1
-NUMBER=""
 
 # -eq: Equal to
 # -ne: Not equal to
