@@ -29,6 +29,6 @@ TODAY=$1
 if [ $TOday != sunday ]
 	echo "Goto school..🏫"
 
-else 
+ 
 	echo "Take holiday, enjoy..!🤩"
 fi
