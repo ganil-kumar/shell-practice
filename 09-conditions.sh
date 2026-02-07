@@ -31,3 +31,4 @@ if [ $TOday != sunday ]
 
 else
 	echo "Take holiday, enjoy..!🤩"
+fi
