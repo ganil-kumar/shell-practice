@@ -22,3 +22,12 @@ elif [[ $NUMBER -le 28 ]]; then
 else
     echo "Given number: $NUMBER is less than 28"
 fi
+
+# string
+
+TODAY=$1
+if [ $TOday != sunday ]
+	echo "Goto school..🏫"
+
+else
+	echo "Take holiday, enjoy..!🤩"
