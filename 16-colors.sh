@@ -7,5 +7,5 @@ Y="\e[33m"      # Yellow
 N="\e[0m"       # Normal 
 B="\e[34m"      # Blue
 
-echo -e "$R #Warring..! $N need update $N"
+echo -e "$R #Warring..! $N need update"
 echo -e "$G To run smoothly $N...!"
