@@ -20,7 +20,7 @@ VALIDATE(){
     fi
 }
 
-for package in $@   # script call - sudo sh 14-loops.sh nginx mysql nodejs etc.. 
+for package in $@   # script call -> sudo sh 14-loops.sh nginx mysql nodejs etc..
 do
     dnf install $package -y &>>$LOGS_FILE
     VALIDATE $? "$package installation"
